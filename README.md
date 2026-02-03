@@ -12,12 +12,6 @@ Software Engineer with a strong focus on Web and Mobile Application Development,
 Check out my live projects and interactive demos here:
 **[https://raisback.github.io/](https://raisback.github.io/)**
 
----
-
-### About Me
-* **Problem Solving:** Strong analytical skills sharpened through competitive programming logic.
-* **Adaptability:** Proven ability to switch between high-level web development and low-level firmware.
-* **Communication:** Collaborative team player experienced in technical documentation and peer reviews.
 
 ---
 
