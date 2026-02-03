@@ -2,7 +2,6 @@
 ### Aspiring Software Engineer | Web, Mobile & Embedded Systems
 Software Engineer with a strong focus on Web and Mobile Application Development, specializing in cross-platform systems and integrated technologies. I bridge the gap between high-level user interfaces and low-level firmware, leveraging robust Data Structures and Algorithms to ensure system efficiency.
 
-- **Education:** Pursuing Bachelor of Information and Communication Technology Honours at the University of Colombo.
 - **Expertise:** MERN Stack, Flutter, Native Android, and Embedded Systems (ESP-IDF / C++).
 - **Interests:** Secure Offline AI, Hardware Hacking, and IoT Solutions.
 
