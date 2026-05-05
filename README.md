@@ -1,6 +1,4 @@
 # Assalamu Aleikum👋, Im Raisary
-### Aspiring Software Engineer
-Software Engineer with a strong focus on Web and Mobile Application Development, specializing in cross-platform systems and integrated technologies. I bridge the gap between high-level user interfaces and low-level firmware, leveraging robust Data Structures and Algorithms to ensure system efficiency.
 
 #### Hardware Hacking, and IoT Solutions, MERN Stack, Flutter, Native Android, and Embedded Systems
 
