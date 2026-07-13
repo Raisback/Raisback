@@ -1,3 +1,3 @@
 # Assalamu Aleikum, Im Raisary
 
- **Email:** Raizisback@gmail.com
+ **e-mail:** Raizisback@gmail.com
